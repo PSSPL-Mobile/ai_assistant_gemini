@@ -26,9 +26,9 @@ A simple and elegant Proof of Concept (POC) for a voice-based AI personal assist
 ## 📦 Packages Used
 
 ```yaml
-speech_to_text: ^6.4.0
-flutter_tts: ^3.6.3
-http: ^0.13.6
+speech_to_text: ^7.0.0
+flutter_tts: ^4.2.2
+http: ^1.3.0
 ```
 ---
 
