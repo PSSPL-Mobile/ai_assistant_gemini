@@ -1,3 +1,6 @@
-lib/** linguist-detectable=true
+lib/** linguist-language=Dart
 ios/** linguist-detectable=false
 android/** linguist-detectable=false
+macos/** linguist-detectable=false
+windows/** linguist-detectable=false
+linux/** linguist-detectable=false
